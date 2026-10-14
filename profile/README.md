@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://pocketgull.app"><img src="https://img.shields.io/badge/Live_Platform-pocketgull.app-0ea5e9?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Live App"></a>
-  <a href="https://typeface.pocketgull.app"><img src="https://img.shields.io/badge/Typefoundry-typeface.pocketgull.app-18181b?style=for-the-badge" alt="Typefoundry"></a>
+  <a href="https://font.pocketgull.app"><img src="https://img.shields.io/badge/Typefoundry-font.pocketgull.app-18181b?style=for-the-badge" alt="Typefoundry"></a>
   <a href="https://huggingface.co/philgear"><img src="https://img.shields.io/badge/Hugging_Face-Models_%26_Spaces-ffd21e?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
   <a href="https://doi.org/10.5281/zenodo.20647514"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20647514-blue?style=for-the-badge" alt="DOI"></a>
   <a href="https://github.com/pocketgull-app/pocketgull/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-10b981?style=for-the-badge" alt="Apache 2.0"></a>
@@ -20,7 +20,7 @@
 | Repository | Stack | Description |
 | :--- | :--- | :--- |
 | [**`pocketgull`**](https://github.com/pocketgull-app/pocketgull) | Angular 22 · Node 24 · Rust · Flutter · Python | Core clinical care-plan assistant, `GullRenderEngine` 3D anatomy, Gemini Live voice consults, FHIR R4 export, Tauri v2 Desktop HUD, and mobile/wearable companions |
-| [**`pocketgull-font`**](https://github.com/pocketgull-app/pocketgull-font) | OpenType · WOFF2 · Python | 4-master geometric & calligraphic superfamily (`Regular`, `Italic`, `Marker`, `Mono`) engineered for LogMAR 0.0 clinical legibility & ISMP decimal disambiguation ([typeface.pocketgull.app](https://typeface.pocketgull.app)) |
+| [**`pocketgull-font`**](https://github.com/pocketgull-app/pocketgull-font) | OpenType · WOFF2 · Python | 4-master geometric & calligraphic superfamily (`Regular`, `Italic`, `Marker`, `Mono`) engineered for LogMAR 0.0 clinical legibility & ISMP decimal disambiguation ([font.pocketgull.app](https://font.pocketgull.app)) |
 | [**`homebrew-tap`**](https://github.com/pocketgull-app/homebrew-tap) | Ruby (Homebrew Cask) | Official macOS Homebrew tap (`brew tap pocketgull-app/tap && brew install --cask font-pocketgull`) |
 | [**`pocketgull-submissions`**](https://github.com/pocketgull-app/pocketgull-submissions) | Documentation · Architecture Decks | Contest submissions, architectural dossiers, and reproducibility verification artifacts |
 
