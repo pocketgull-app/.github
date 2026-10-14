@@ -20,8 +20,7 @@
 | Repository | Stack | Description |
 | :--- | :--- | :--- |
 | [**`pocketgull`**](https://github.com/pocketgull-app/pocketgull) | Angular 22 · Node 24 · Rust · Flutter · Python | Core clinical care-plan assistant, `GullRenderEngine` 3D anatomy, Gemini Live voice consults, FHIR R4 export, Tauri v2 Desktop HUD, and mobile/wearable companions |
-| [**`pocketgull-font`**](https://github.com/pocketgull-app/pocketgull-font) | OpenType · WOFF2 · Python | 4-master geometric & calligraphic superfamily (`Regular`, `Italic`, `Marker`, `Mono`) engineered for LogMAR 0.0 clinical legibility & ISMP decimal disambiguation (`cv05`, `cv08`, `ss02`) |
-| [**`typeface.pocketgull.app`**](https://github.com/pocketgull-app/typeface.pocketgull.app) | HTML · CSS · Web Fonts | Interactive specimen portal and optical telemetry tester for the PocketGull typeface family |
+| [**`pocketgull-font`**](https://github.com/pocketgull-app/pocketgull-font) | OpenType · WOFF2 · Python | 4-master geometric & calligraphic superfamily (`Regular`, `Italic`, `Marker`, `Mono`) engineered for LogMAR 0.0 clinical legibility & ISMP decimal disambiguation ([typeface.pocketgull.app](https://typeface.pocketgull.app)) |
 | [**`homebrew-tap`**](https://github.com/pocketgull-app/homebrew-tap) | Ruby (Homebrew Cask) | Official macOS Homebrew tap (`brew tap pocketgull-app/tap && brew install --cask font-pocketgull`) |
 | [**`pocketgull-submissions`**](https://github.com/pocketgull-app/pocketgull-submissions) | Documentation · Architecture Decks | Contest submissions, architectural dossiers, and reproducibility verification artifacts |
 
